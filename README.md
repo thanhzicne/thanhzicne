@@ -23,6 +23,5 @@
 
 ## 🌤️ Weather
 
-<!-- WEATHER:START -->
-<!-- WEATHER:END -->
+{{ template "daily-table" .Weathers }}
 
