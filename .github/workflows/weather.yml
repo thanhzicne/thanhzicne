@@ -20,6 +20,8 @@ jobs:
         with:
           city: Ho Chi Minh City
           weather-api-key: ${{ secrets.WEATHER_API_KEY }}
+          template-file: README.md
+          out-file: README.md
 
       - name: Commit changes
         run: |
