@@ -2,7 +2,7 @@ name: Update Weather
 
 on:
   schedule:
-    - cron: "0 */6 * * *"   # update mỗi 6 giờ
+    - cron: "0 */6 * * *"
   workflow_dispatch:
 
 permissions:
@@ -18,7 +18,7 @@ jobs:
       - name: Update Weather
         uses: huantt/weather-forecast@v1.0.6
         with:
-          city: Ho Chi Minh
+          city: Ho Chi Minh City
           units: metric
 
       - name: Commit changes
