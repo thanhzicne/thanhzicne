@@ -23,5 +23,5 @@
 
 ## 🌤️ Weather
 
-<!-- WEATHER:START -->
-<!-- WEATHER:END -->
+
+
