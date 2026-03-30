@@ -1,4 +1,4 @@
-# Hi 👋, I'm Pham Duc Thanh
+# Hi 👋, I'm Phạm Đức Thành
 
 ### I'm a self-taught passionate FrontEnd developer
 
