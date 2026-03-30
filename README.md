@@ -20,8 +20,3 @@
   <img alt="github contribution snake" src="https://github.com/thanhzicne/thanhzicne/blob/output/github-snake.svg">
 </picture>
 
-
-## 🌤️ Weather
-
-{{ template "daily-table" .Weathers }}
-
