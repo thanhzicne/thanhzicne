@@ -1,6 +1,6 @@
 # Hi 👋, I'm Pham Duc Thanh
 
-### I'm a self-taught passionate FrontEnd developer from VietNam
+### I'm a self-taught passionate FrontEnd developer
 
 - 📫 How to reach me **pdthanh2004@gmail.com**
 
