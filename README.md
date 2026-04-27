@@ -4,12 +4,10 @@
 
 - 📫 How to reach me **pdthanh2004@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://github.com/thanhzicne" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="thanhzicne" height="30" width="40" /></a><a href="https://instagram.com/ddwc.tanhz_" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ddwc.tanhz_" height="30" width="40" /></a>
-</p>
+### Connect with me:
+[<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="github" width="40" height="30"/>](https://github.com/thanhzicne) [<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" width="40" height="30"/>](https://instagram.com/ddwc.tanhz_)
 
-<h3 align="left">Languages and Tools:</h3>
+### Languages and Tools:
 <p align="left">
   <img src="https://skillicons.dev/icons?i=css,dart,firebase,flutter,git,html,js,nodejs,react" alt="My Skills" />
 </p>
