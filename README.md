@@ -5,7 +5,11 @@
 - 📫 How to reach me **pdthanh2004@gmail.com**
 
 ### Connect with me:
-[<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="github" width="40" height="30"/>](https://github.com/thanhzicne) [<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" width="40" height="30"/>](https://instagram.com/ddwc.tanhz_)
+<a href="https://github.com/thanhzicne" target="_blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="40" width="40" /></a>
+<a href="https://instagram.com/ddwc.tanhz_" target="_blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="40" width="40" /></a>
+
+<br clear="left"/>
+<br />
 
 ### Languages and Tools:
 <p align="left">
